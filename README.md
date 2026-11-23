@@ -33,3 +33,5 @@ python -m pip install -r requirements.txt
 1. Open `model_prediction.ipynb` or `link_analysis.ipynb` in VS Code.
 2. Select this project's `.venv` Python environment via **Select Kernel → Python Environments**.
 3. Run each notebook from the project root using **Restart Kernel**, then **Run All** so all cells execute from top to bottom.
+
+> **Note:** Interactive Plotly charts do not render in GitHub's static notebook preview. Open the notebooks in VS Code or Jupyter to view all visualisations.
