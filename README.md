@@ -28,8 +28,6 @@ py -3.11 -m venv .venv
 python -m pip install -r requirements.txt
 ```
 
-> **macOS note:** LightGBM and XGBoost may require OpenMP (`brew install libomp`) if imports report a missing `libomp.dylib`.
-
 ## Running the Notebooks
 
 1. Open `model_prediction.ipynb` or `link_analysis.ipynb` in VS Code.
