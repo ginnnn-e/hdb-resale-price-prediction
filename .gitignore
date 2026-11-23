@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Data files and raw archives
+data/
+
+# Assessment brief and internal dataset notes
+DATASET.md
+HTX xData Technical Test Questions (DS_RSA) Dec 2025.docx
+
+# macOS and Jupyter/Python caches
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
